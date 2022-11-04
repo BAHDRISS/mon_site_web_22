@@ -1,2 +1,4 @@
 tmp/filtre_cache.txt
 tmp/*
+*.txt 
+
