@@ -1,3 +1,5 @@
 tmp/filtre_cache.txt
 tmp/*
 *.xml 
+*.txt 
+
